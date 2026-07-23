@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_rwant_first5",
+  "source_file": "utl-python-function-to-create-a-sas-dataset-using-stattransfer-and-intermediate-feather-file.sas",
+  "source_blob_sha": "7ce567af79f8563bb1827cdad7d19e7b4119f61e",
+  "source_commit": "af868c1fc9bcb131872e16fef5e99b4479c0fbd8",
+  "notes": "The 'first five rows' result the worked example produces as SD1.RWANT. Author's Python does pandasql 'limit 5' over sashelp.class; reproduced in pure SAS with obs=5 per the author's own comment 'select the first five rows from sashelp.class'. Redirected libname; proc print statement unchanged. Reproduces the file's documented SD1.RWANT block (5 obs)."
+}

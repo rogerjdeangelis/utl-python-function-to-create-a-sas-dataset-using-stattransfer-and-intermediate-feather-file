@@ -1,0 +1,8 @@
+
+  Obs     NAME  SEX  AGE  HEIGHT  WEIGHT
+-----  -------  ---  ---  ------  ------
+    1  Amir     M     13    61.2      95
+    2  Bethany  F     14    63.8     105
+    3  Carlos   M     12    58.5      88
+    4  Diana    F     11      53    62.5
+    5  Ethan    M     15      68     130
