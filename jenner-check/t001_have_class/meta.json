@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_have_class",
+  "source_file": "utl-python-function-to-create-a-sas-dataset-using-stattransfer-and-intermediate-feather-file.sas",
+  "source_blob_sha": "7ce567af79f8563bb1827cdad7d19e7b4119f61e",
+  "source_commit": "af868c1fc9bcb131872e16fef5e99b4479c0fbd8",
+  "notes": "SAS core of the main worked example: builds SD1.HAVE from sashelp.class with validvarname=upcase, then proc print. Upstream libname d:/sd1 (local Windows path) redirected to WORK; options/source/proc unchanged. Reproduces the file's documented SD1.HAVE block (19 obs, NAME/SEX/AGE/HEIGHT/WEIGHT)."
+}
